@@ -1,6 +1,3 @@
-
-[MasterHead](https://www.orangemantra.com/blog/wp-content/uploads/2020/01/What-Makes-Flutter-Ideal-For-Mobile-App-Development-In-2020-And-Beyond.jpg)
-
 <h1 align="center">Hi 👋, I'm Bhavik Pindoriya</h1>
 <h3 align="center">A self-taught programmer and born at very little age 😜</h3>
 
