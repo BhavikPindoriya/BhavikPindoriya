@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavikpindoriya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavikpindoriya" /> </p>
 
-- 🔭 I’m currently working on **I’m currently working on Flutter**
+- 🔭 **I’m currently working on Flutter**
 
-- 🌱 I’m currently learning **I’m currently learning Backend**
+- 🌱 **I’m currently learning Backend**
 
-- 💬 Ask me about **Ask me anything about Flutter**
+- 💬 **Ask me anything about Flutter**
 
-- 📫 How to reach me **pindoriyabhavik@gmail.com**
+- 📫 How to reach me: **pindoriyabhavik@gmail.com**
 
-- ⚡ Fun fact **I can work better in less work load**
+- ⚡ Fun fact: **I can work better in less work load**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
